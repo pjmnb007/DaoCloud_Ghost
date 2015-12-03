@@ -1,6 +1,6 @@
 from ubuntu
 
-run apt-get update
+run apt-get -y  update
 
 run apt-get -y install nodejs npm node nodejs-dbg nodejs-dev nodejs-legacy
 
