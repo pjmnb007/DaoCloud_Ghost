@@ -2,7 +2,7 @@ from ubuntu
 
 run apt-get -y  update
 
-run apt-get -y install nodejs npm node
+run apt-get -y install node-gyp nodejs npm node
 
 run mkdir /app
 
