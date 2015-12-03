@@ -2,7 +2,7 @@ from ubuntu
 
 run apt-get -y  update
 
-run apt-get -y install nodejs npm node nodejs-dbg nodejs-dev
+run apt-get -y install nodejs npm node
 
 run mkdir /app
 
